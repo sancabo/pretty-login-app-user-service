@@ -1,0 +1,22 @@
+#This is the external configuration
+user:
+  service:
+    web:
+      domain:
+        url: https://prettylogin-17498.web.app/
+    cors:
+      allowed: "*"
+    api:
+      key: 123456
+    from:
+        email: DevSanCabo's Material UI Login Page at Prod
+spring:
+  mail:
+    username: devsancabo@gmail.com
+    password: 5hetepsenusret8
+
+logging:
+  level:
+    org:
+      springframework:
+        web: DEBUG
