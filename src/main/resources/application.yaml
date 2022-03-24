@@ -12,8 +12,8 @@ user:
         email: DevSanCabo's Material UI Login Page at Prod
 spring:
   mail:
-    username: devsancabo@gmail.com
-    password: 5hetepsenusret8
+    username: altrem23@gmail.com
+    password: jfherre52121
 
 logging:
   level:
